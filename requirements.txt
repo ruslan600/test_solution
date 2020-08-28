@@ -1,0 +1,4 @@
+tinkoff-voicekit-client==0.1.4
+fuzzywuzzy==0.18.0
+python-Levenshtein
+psycopg2==2.8.5
